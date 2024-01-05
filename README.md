@@ -2,7 +2,7 @@
 🔭 I’m currently working on Web-Devlopment<br>👯 I’m looking to collaborate on Full-stack projects<br>🌱 I’m currently learning Js<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tired.soul3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harithus-avgs-65950b214) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hariiiiiiii___) 
 
 # 💻 Tech Stack:
